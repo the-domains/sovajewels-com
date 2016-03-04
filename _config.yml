@@ -1,0 +1,14 @@
+layout_spectrum: 0.8996416
+typography_spectrum: 0.2401434
+color:
+  saturation: 0.9166594
+  lightness: 0.0009979201
+  brandStrength: 0.4767025
+  brandColors:
+    - '#FFFFFF'
+    - '#211E1F'
+    - '#EAE2C6'
+    - '#9A999A'
+    - '#777777'
+  rhythmicContrast: 0.5250594
+name: sovajewels.com
