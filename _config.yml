@@ -1,14 +1,28 @@
-layout_spectrum: 0.8996416
-typography_spectrum: 0.2401434
-color:
-  saturation: 0.9166594
-  lightness: 0.0009979201
-  brandStrength: 0.4767025
-  brandColors:
-    - '#FFFFFF'
-    - '#211E1F'
-    - '#EAE2C6'
-    - '#9A999A'
-    - '#777777'
-  rhythmicContrast: 0.5250594
 name: sovajewels.com
+favicon: null
+layout_spectrum: 0.8996416
+typography_spectrum: 0.49042
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ffffff'
+    - '#1b1819'
+    - '#504d4e'
+    - '#a3a2a2'
+    - '#7c7a7b'
+  brandStrength: 0.4767025
+  lightness: 0.0009979201
+  saturation: 0.9166594
+  rhythmicContrast: 0.5250594
+purpose: []
